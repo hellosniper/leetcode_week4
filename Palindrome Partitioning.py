@@ -12,7 +12,7 @@
 # Sulotion:
 # Author: DongDing 
 # Date: 2014/07/26
-# Time complexity:  O(n^2)  , n is the length of the string
+# Time complexity:  O(n^3)  , n is the length of the string
 # space complexity:  O(n^2)
 # Tag: # string # Dynamic Programming
 # Comment: 
